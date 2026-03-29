@@ -1,4 +1,8 @@
 """ cacher.py -- sample for playlist download
+
+Example,
+- `python cacher.py 15083071583`
+- https://www.deezer.com/playlist/15083071583 is _Turn Back The Clock_ playlist!
 """
 
 import sys
